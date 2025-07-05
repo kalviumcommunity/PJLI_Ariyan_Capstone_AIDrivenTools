@@ -7,7 +7,7 @@ A simple and elegant interface to start collaborating with our team in minutes u
 - **AI-driven workflows** for faster, smarter product development
 - **Custom views** tailored for every team role
 - **Real-time feedback** from AI that understands your files
-- **Responsive UI** with a clean, minimal design
+- **Responsive UI** with a clean, minimal design.
 
 ## Daily Plan
 
