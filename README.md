@@ -1,7 +1,7 @@
 # AI-Driven Tools for Product Teams
 
 ## Idea Brief
-A simple and elegant interface to start collaborating with our team in minutes. It seamlessly integrates with our code and favorite programming languages. This project will be developed using HTML, CSS, and JavaScript, and will be deployed with a responsive design across devices.
+A simple and elegant interface to start collaborating with our team in minutes usiing AI agents. The AI agents seamlessly integrates with our code and favorite programming languages. This project will be developed using HTML, CSS, and JavaScript, and will be deployed with a responsive design across devices.
 
 ## Key Features
 - **AI-driven workflows** for faster, smarter product development
